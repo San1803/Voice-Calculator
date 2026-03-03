@@ -1,0 +1,5 @@
+{
+  "name": "Voice Calculator",
+  "description": "A sleek calculator that can calculate mathematical expressions from voice input.",
+  "requestFramePermissions": ["microphone"]
+}
